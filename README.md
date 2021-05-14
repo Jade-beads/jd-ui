@@ -1,19 +1,11 @@
-# jade_ui_project
+- 本项目仅作为 vue 组件封装的练习
 
-## Project setup
-```
-yarn install
-```
+- 初始化 vue 项目
+  vue created demo
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+- 安装组件库
+  npm add jd-ui
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 全局导入
+  import jdUI form 'jd-ui'
+  import 'jd-ui/lib/jd-ui.css'
